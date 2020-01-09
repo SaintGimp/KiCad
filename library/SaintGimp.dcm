@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA260
+D Precision Digital Current and Power Monitor With Low-Drift, Precision Integrated Shunt
+K Current Monitor Shunt I2C
+F http://www.ti.com/lit/ds/symlink/ina260.pdf
+$ENDCMP
+#
+$CMP MIC4605-1YM
+D 85V Half-Bridge MOSFET Driver with Adaptive Dead Timeand Shoot-Through Protection
+K MOSFET FET gate driver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC4605-85V-Half-Bridge-MOSFET-Driver-DS20005853B.pdf
+$ENDCMP
+#
+$CMP MPSW45
+D 1A Ic, 50V Vce, NPN Darlington Transistor, TO-92
+K NPN Darlington Transistor
+F https://www.onsemi.com/pub/Collateral/MPSW45-D.PDF
+$ENDCMP
+#
+$CMP PSMN5R5-60YS
+D 100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56
+K N-Channel MOSFET
+F https://assets.nexperia.com/documents/data-sheet/PSMN5R5-60YS.pdf
+$ENDCMP
+#
+#End Doc Library
