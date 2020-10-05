@@ -24,6 +24,12 @@ K N-Channel MOSFET
 F https://assets.nexperia.com/documents/data-sheet/PSMN5R5-60YS.pdf
 $ENDCMP
 #
+$CMP Particle_Xenon
+D Nordic nRF52840 module in an Adafruit Feather form factor
+K particle xenon nRF52840 feather microcontroller module
+F https://docs.particle.io/datasheets/discontinued/xenon-datasheet/
+$ENDCMP
+#
 $CMP TLE2082
 D Dual Operational Amplifiers, DIP-8/SOIC-8
 K dual opamp jfet
