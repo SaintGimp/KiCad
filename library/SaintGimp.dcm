@@ -24,4 +24,10 @@ K N-Channel MOSFET
 F https://assets.nexperia.com/documents/data-sheet/PSMN5R5-60YS.pdf
 $ENDCMP
 #
+$CMP TLE2082
+D Dual Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp jfet
+F http://www.ti.com/lit/ds/symlink/tle2082.pdf
+$ENDCMP
+#
 #End Doc Library
