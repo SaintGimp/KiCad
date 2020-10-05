@@ -1,9 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1N52xxB
+D 500mW Zener Diode, DO-35
+K zener diode
+F https://datasheet.octopart.com/1N5240B-ON-Semiconductor-datasheet-127182391.pdf
+$ENDCMP
+#
 $CMP INA260
 D Precision Digital Current and Power Monitor With Low-Drift, Precision Integrated Shunt
 K Current Monitor Shunt I2C
 F http://www.ti.com/lit/ds/symlink/ina260.pdf
+$ENDCMP
+#
+$CMP IPP80P03P4L-04
+D -30V, P-Channel, 4.4 mΩ max, Automotive MOSFET, TO-220
+K P-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-I80P03P4L_04-DS-v01_01-en.pdf?fileId=db3a30431ddc9372011e07e95eb827d7
 $ENDCMP
 #
 $CMP MIC4605-1YM
